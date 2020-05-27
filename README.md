@@ -4,7 +4,7 @@ Quickly verify your credit or debit card number using the Algorithm that card pr
 
 ## Getting Started
 
-After compiling and running the software you will receive a terminal prompt asking for your card number, using a test card number found online is suggested to test functionality
+After compiling and running the software you will receive a terminal prompt asking for your card number, using a test card number found in the internet is suggested to test functionality, although software is secure to use personal card numbers. Currently it only supports American Express, Visa and MasterCard numbers.
 
 ### Prerequisites
 
@@ -13,8 +13,8 @@ Any C99 compiler.
 
 ## Authors
 
-* **Heiner Gamboa** - *Initial work* - [allwizard](https://github.com/allwizard)
+* **Heiner Gamboa** - [allwizard](https://github.com/allwizard)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
